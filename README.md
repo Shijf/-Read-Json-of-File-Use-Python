@@ -9,7 +9,7 @@
 ```
 $ git clone git@github.com:Shijf/Read-Json-Form-File-Use-Python.gitt
 
-$ cd Read-Json-of-File-Use-Python
+$ cd Read-Json-From-File-Use-Python
 
 $ python demo.py
 ```
