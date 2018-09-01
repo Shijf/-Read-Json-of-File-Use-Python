@@ -1,10 +1,10 @@
 # Read-Json-of-File-Use-Python
 
-#Requirement
+# Requirement
 
 * Python3
 
-#Installation
+# Installation
 
 ```
 $ git clone git@github.com:Shijf/Read-Json-of-File-Use-Python.git
@@ -13,11 +13,11 @@ $ cd Read-Json-of-File-Use-Python
 
 $ python demo.py
 ```
-#Demo Show
+ # Demo Show
 
 ![Image text](https://github.com/Shijf/Read-Json-of-File-Use-Python/blob/master/img/demo.png)
 
-#License
+# License
 
 MIT
 
