@@ -1,4 +1,4 @@
-# Read-Json-of-File-Use-Python
+# Read-Json-From-File-Use-Python
 
 # Requirement
 
