@@ -15,7 +15,7 @@ $ python demo.py
 ```
  # Demo Show
 
-![Image text](https://github.com/Shijf/Read-Json-From-File-Use-Python/blob/master/img/demo.png)
+![Image text](https://github.com/Shijf/Read-Json-Form-File-Use-Python/blob/master/img/demo.png)
 
 # License
 
