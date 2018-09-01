@@ -4,7 +4,7 @@
 
 * Python3
 
-#installation
+#Installation
 
 ```
 $ git clone git@github.com:Shijf/Read-Json-of-File-Use-Python.git
