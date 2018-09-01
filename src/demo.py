@@ -34,8 +34,9 @@ def output():
 
 # path 请换成实际 json 文件的路径例如 path = r"G:\demo\data.json" 
 # 记得加 r
-# 以下只是演示路径
+# 以下只是演示路径 
 
 path = os.getcwd() + "\data.json" # 实际地址:G:\demo\data.json 
 
+# 输出
 output()           
